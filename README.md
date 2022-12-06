@@ -7,4 +7,4 @@ Nest projeto proposto para formação CSS alura, foi criado uma página para new
 
 ### RESULTADO FINAL
 
-[!Resultado final do projeot](./image/imagemofwebsite.gif)
+![Resultado final do projeto](./image/imagemofwebsite.gif)
